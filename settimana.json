@@ -1,17 +1,123 @@
 {
   "formato": "martedi-da-chef/ricette-1",
-  "settimana": "2026-W42",
-  "aggiornato": "2026-10-13",
-  "nota": "Zucca, verza e cavolfiori, prime castagne, pere e funghi: i sapori di ottobre.",
+  "settimana": "2026-W43",
+  "aggiornato": "2026-10-19",
+  "nota": "Castagne, funghi, verza, cavolfiori e pere: i sapori di fine ottobre.",
   "ricette": [
     {
-      "titolo": "Lasagne zucca e salsiccia",
+      "titolo": "Gnocchi di patate senza farina",
       "categoria": "Primi",
-      "porzioni": 6,
+      "porzioni": 4,
       "tempoPrep": 50,
-      "tempoCottura": 70,
+      "tempoCottura": 60,
       "difficolta": "Media",
-      "costo": "Basso",
+      "costo": "Medio",
+      "ingredienti": [
+        {
+          "nome": "patate",
+          "qta": 500,
+          "unita": "g"
+        },
+        {
+          "nome": "fecola di patate",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "zafferano in polvere",
+          "qta": 2,
+          "unita": "pz",
+          "nota": "bustine"
+        },
+        {
+          "nome": "mandorle pelate",
+          "qta": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "acqua",
+          "qta": 250,
+          "unita": "g"
+        },
+        {
+          "nome": "amido di mais",
+          "qta": 5,
+          "unita": "g"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe bianco",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "broccoli",
+          "qta": 200,
+          "unita": "g"
+        },
+        {
+          "nome": "funghi champignon",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "mirtilli rossi disidratati",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "scorza di limone",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe rosa in grani",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Lessa le patate con la buccia in acqua salata, poi pelale e schiacciale ancora calde, lasciandole raffreddare.",
+        "Frulla le mandorle con l'acqua e lo zafferano, filtra il composto e scaldalo con l'amido di mais fino a ottenere una salsa liscia.",
+        "Impasta le patate con la fecola e un pizzico di sale e pepe bianco, lavorando poco per non appesantire l'impasto.",
+        "Forma dei cordoncini, taglia gli gnocchi e passali sui rebbi di una forchetta.",
+        "Spadella i broccoli a cimette e i funghi a fettine con un filo d'olio, aggiungendo qualche cucchiaio d'acqua per ammorbidirli.",
+        "Cuoci gli gnocchi in acqua bollente salata e scolali appena vengono a galla.",
+        "Servi gli gnocchi sulla salsa di mandorle e zafferano, con le verdure, i mirtilli, la scorza di limone e il pepe rosa."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "vegetariano"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Gnocchi-di-patate-senza-farina.html"
+      }
+    },
+    {
+      "titolo": "Agnolotti",
+      "categoria": "Primi",
+      "porzioni": 4,
+      "tempoPrep": 30,
+      "tempoCottura": 185,
+      "difficolta": "Media",
+      "costo": "Medio",
       "ingredienti": [
         {
           "nome": "farina 00",
@@ -21,31 +127,11 @@
         {
           "nome": "uova",
           "qta": 3,
-          "unita": "pz"
+          "unita": "pz",
+          "nota": "medie"
         },
         {
-          "nome": "zucca delica",
-          "qta": 600,
-          "unita": "g",
-          "nota": "da pulire"
-        },
-        {
-          "nome": "salsiccia",
-          "qta": 400,
-          "unita": "g"
-        },
-        {
-          "nome": "passata di pomodoro",
-          "qta": 400,
-          "unita": "g"
-        },
-        {
-          "nome": "Parmigiano Reggiano DOP",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "cipolla",
+          "nome": "cipolle",
           "qta": 1,
           "unita": "pz"
         },
@@ -55,303 +141,102 @@
           "unita": "spicchio"
         },
         {
-          "nome": "rosmarino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "latte intero",
-          "qta": 500,
-          "unita": "ml"
-        },
-        {
-          "nome": "burro",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "farina 00",
-          "qta": 50,
-          "unita": "g",
-          "nota": "per la besciamella"
-        },
-        {
-          "nome": "noce moscata",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Impasta la farina con le uova e un pizzico di sale fino a ottenere un panetto liscio, avvolgilo nella pellicola e lascialo riposare mezz'ora.",
-        "Taglia la zucca a cubetti e cuocila in padella con olio, uno spicchio d'aglio e il rosmarino finché diventa tenera, poi schiacciala grossolanamente.",
-        "In un'altra padella rosola cipolla e aglio tritati, aggiungi la salsiccia sbriciolata e fai dorare; unisci la passata e cuoci per circa 20 minuti.",
-        "Prepara la besciamella sciogliendo il burro, tostando la farina e versando il latte caldo poco alla volta; insaporisci con sale e noce moscata.",
-        "Stendi la pasta in sfoglie sottili e sbollentale per un minuto in acqua salata, poi scolale su un canovaccio.",
-        "Componi la lasagna alternando sfoglie, ragù di salsiccia, zucca, besciamella e Parmigiano fino a esaurire gli ingredienti.",
-        "Inforna a 180 °C per 35-40 minuti, finché la superficie è dorata, e lascia riposare 10 minuti prima di servire."
-      ],
-      "tag": [
-        "autunno",
-        "zucca",
-        "forno"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre",
-        "dicembre"
-      ],
-      "note": "",
-      "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Lasagne-zucca-e-salsiccia.html"
-      }
-    },
-    {
-      "titolo": "Pasta al forno con cavolfiori e salsiccia",
-      "categoria": "Primi",
-      "porzioni": 4,
-      "tempoPrep": 30,
-      "tempoCottura": 50,
-      "difficolta": "Media",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "sedanini rigati",
-          "qta": 320,
-          "unita": "g"
-        },
-        {
-          "nome": "cavolfiore",
-          "qta": 700,
-          "unita": "g"
-        },
-        {
-          "nome": "salsiccia",
-          "qta": 300,
-          "unita": "g"
-        },
-        {
-          "nome": "mozzarella di bufala affumicata",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "aglio",
-          "qta": 1,
-          "unita": "spicchio"
-        },
-        {
-          "nome": "timo",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "farina 00",
-          "qta": 60,
-          "unita": "g"
-        },
-        {
-          "nome": "burro",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "noce moscata",
-          "qta": null,
-          "unita": "q.b.",
-          "nota": "da grattugiare"
-        }
-      ],
-      "passi": [
-        "Dividi il cavolfiore in cimette e cuocile in acqua salata per pochi minuti; scolale e tienile da parte.",
-        "Rosola l'aglio in poco olio, aggiungi la salsiccia sgranata e falla dorare, poi unisci il cavolfiore e il timo e insaporisci per qualche minuto.",
-        "Prepara una besciamella con burro, farina e latte caldo, aggiustando di sale, pepe e noce moscata.",
-        "Lessa la pasta molto al dente, scolala e uniscila al condimento.",
-        "Versa metà besciamella nella pasta e mescola, poi trasferisci tutto in una teglia e copri con la restante besciamella.",
-        "Distribuisci la mozzarella a pezzetti e inforna a 200 °C per 20-25 minuti, fino a gratinatura dorata."
-      ],
-      "tag": [
-        "autunno",
-        "cavolfiore",
-        "forno"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre",
-        "dicembre"
-      ],
-      "note": "",
-      "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Pasta-al-forno-con-cavolfiori-e-salsiccia.html"
-      }
-    },
-    {
-      "titolo": "Lasagne di verza",
-      "categoria": "Primi",
-      "porzioni": 6,
-      "tempoPrep": 60,
-      "tempoCottura": 170,
-      "difficolta": "Media",
-      "costo": "Medio",
-      "ingredienti": [
-        {
-          "nome": "verza",
-          "qta": 16,
-          "unita": "foglia"
-        },
-        {
-          "nome": "provola",
-          "qta": 350,
-          "unita": "g"
-        },
-        {
-          "nome": "Grana Padano DOP",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "sedano",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 costa"
-        },
-        {
-          "nome": "cipolla bianca",
-          "qta": 1,
-          "unita": "pz"
-        },
-        {
-          "nome": "carota",
-          "qta": 1,
-          "unita": "pz"
-        },
-        {
-          "nome": "aglio",
-          "qta": 1,
-          "unita": "spicchio"
-        },
-        {
-          "nome": "manzo macinato",
-          "qta": 300,
-          "unita": "g"
-        },
-        {
-          "nome": "passata di pomodoro",
-          "qta": 700,
-          "unita": "g"
-        },
-        {
-          "nome": "acqua",
-          "qta": 300,
-          "unita": "ml"
-        },
-        {
-          "nome": "vino rosso",
-          "qta": 60,
-          "unita": "ml"
-        },
-        {
-          "nome": "rosmarino tritato",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 rametto"
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "burro",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 1,
+          "nome": "brodo di carne",
+          "qta": 1.5,
           "unita": "l"
         },
         {
-          "nome": "farina 00",
+          "nome": "vitello polpa",
+          "qta": 200,
+          "unita": "g"
+        },
+        {
+          "nome": "manzo polpa",
+          "qta": 400,
+          "unita": "g"
+        },
+        {
+          "nome": "lonza di maiale",
           "qta": 100,
           "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "per il ripieno"
+        },
+        {
+          "nome": "verza",
+          "qta": 2,
+          "unita": "foglia"
         },
         {
           "nome": "noce moscata",
           "qta": null,
           "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "Parmigiano Reggiano DOP",
+          "qta": 60,
+          "unita": "g",
+          "nota": "da grattugiare"
+        },
+        {
+          "nome": "burro",
+          "qta": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 6,
+          "unita": "pz",
+          "nota": "rametti"
         }
       ],
       "passi": [
-        "Trita finemente sedano, cipolla, carota e aglio e falli appassire in una casseruola con un filo d'olio.",
-        "Aggiungi la carne macinata, falla rosolare, sfuma con il vino rosso e lascia evaporare.",
-        "Unisci passata, acqua e rosmarino e cuoci a fuoco dolce per circa 2 ore, aggiustando di sale.",
-        "Sbollenta le foglie di verza in acqua salata, scolale, asciugale e togli la costa dura centrale.",
-        "Prepara la besciamella con burro, farina e latte, profumata con sale e noce moscata.",
-        "In una teglia alterna strati di foglie di verza, ragù, besciamella, provola a dadini e Grana grattugiato, finendo con formaggio.",
-        "Cuoci in forno a 200 °C per circa 30 minuti, poi lascia intiepidire prima di porzionare."
-      ],
-      "tag": [
-        "autunno",
-        "verza",
-        "forno"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre",
-        "dicembre"
+        "Rosola le carni in una casseruola con burro, cipolla, aglio e rosmarino, poi bagnale con un mestolo di brodo.",
+        "Prosegui la cottura a fuoco dolce per circa tre ore, aggiungendo brodo caldo man mano che si asciuga.",
+        "Lessa le foglie di verza, strizzale e tritale finemente insieme alla carne ormai tenera.",
+        "Unisci all'arrosto tritato il parmigiano, un uovo, noce moscata, sale e pepe e mescola fino a un ripieno omogeneo.",
+        "Impasta la farina con le uova, lascia riposare il panetto coperto, poi stendi una sfoglia sottile.",
+        "Distribuisci il ripieno a mucchietti, copri con la sfoglia, sigilla, taglia i quadratini e ripassa i bordi.",
+        "Cuoci gli agnolotti in acqua salata per pochi minuti e condiscili con burro fuso e salvia o con un po' di sugo d'arrosto."
       ],
       "note": "",
       "foto": null,
+      "tag": [
+        "autunno",
+        "tradizione piemontese"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Lasagne-di-verza.html"
+        "url": "https://ricette.giallozafferano.it/Agnolotti.html"
       }
     },
     {
-      "titolo": "Risotto alla zucca",
+      "titolo": "Risotto alla verza",
       "categoria": "Primi",
       "porzioni": 4,
-      "tempoPrep": 20,
-      "tempoCottura": 50,
+      "tempoPrep": 15,
+      "tempoCottura": 25,
       "difficolta": "Facile",
-      "costo": "Basso",
+      "costo": "Molto basso",
       "ingredienti": [
         {
           "nome": "riso Carnaroli",
@@ -359,325 +244,64 @@
           "unita": "g"
         },
         {
-          "nome": "zucca delica",
-          "qta": 750,
-          "unita": "g",
-          "nota": "da pulire"
+          "nome": "verza",
+          "qta": 560,
+          "unita": "g"
         },
         {
-          "nome": "cipolla ramata",
-          "qta": 100,
+          "nome": "scalogno",
+          "qta": 60,
           "unita": "g"
         },
         {
           "nome": "brodo vegetale",
-          "qta": 1.5,
-          "unita": "l"
-        },
-        {
-          "nome": "Parmigiano Reggiano DOP",
-          "qta": 80,
-          "unita": "g"
+          "qta": 1,
+          "unita": "l",
+          "nota": "circa"
         },
         {
           "nome": "vino bianco",
-          "qta": 60,
-          "unita": "ml"
+          "qta": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "Parmigiano Reggiano DOP",
+          "qta": 100,
+          "unita": "g"
         },
         {
           "nome": "burro",
           "qta": 50,
           "unita": "g"
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
         }
       ],
       "passi": [
-        "Pulisci la zucca e tagliala a cubetti piccoli; tieni da parte un po' di cubetti per la decorazione.",
-        "Soffriggi la cipolla tritata in olio, aggiungi la zucca e cuocila con un mestolo di brodo finché si sfalda, poi frullala in parte per ottenere una crema.",
-        "Tosta il riso in una casseruola per un paio di minuti e sfuma con il vino bianco.",
-        "Cuoci il riso aggiungendo brodo caldo poco per volta, mescolando di tanto in tanto.",
-        "A metà cottura incorpora la crema di zucca e i cubetti rimasti.",
-        "Spegni il fuoco, manteca con burro freddo e Parmigiano, regola di sale e pepe e fai riposare un minuto prima di servire."
-      ],
-      "tag": [
-        "autunno",
-        "zucca",
-        "riso"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre",
-        "dicembre"
+        "Elimina le foglie esterne della verza, togli la costa dura e tagliala a listarelle sottili.",
+        "Soffriggi lo scalogno tritato in poco olio, unisci la verza e falla appassire per qualche minuto.",
+        "Aggiungi il riso e tostalo mescolando finché i chicchi diventano lucidi.",
+        "Sfuma con il vino bianco e lascia evaporare.",
+        "Porta a cottura il riso aggiungendo un mestolo di brodo caldo alla volta.",
+        "A fuoco spento manteca con burro e parmigiano, regola di pepe e lascia riposare un minuto prima di servire."
       ],
       "note": "",
       "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Risotto-alla-zucca.html"
-      }
-    },
-    {
-      "titolo": "Scaloppine ai funghi",
-      "categoria": "Secondi",
-      "porzioni": 4,
-      "tempoPrep": 20,
-      "tempoCottura": 15,
-      "difficolta": "Facile",
-      "costo": "Medio",
-      "ingredienti": [
-        {
-          "nome": "fettine di vitello",
-          "qta": 400,
-          "unita": "g"
-        },
-        {
-          "nome": "funghi champignon",
-          "qta": 500,
-          "unita": "g"
-        },
-        {
-          "nome": "burro",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "vino bianco",
-          "qta": 40,
-          "unita": "ml"
-        },
-        {
-          "nome": "farina 00",
-          "qta": 40,
-          "unita": "g"
-        },
-        {
-          "nome": "prezzemolo",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Pulisci i funghi con un panno umido e affettali.",
-        "Cuocili in padella con metà del burro per 8-10 minuti, finché perdono l'acqua, e salali a fine cottura.",
-        "Infarina leggermente le fettine di vitello, scuotendo via la farina in eccesso.",
-        "Rosola le fettine nel burro rimasto, un paio di minuti per lato, poi sfuma con il vino bianco.",
-        "Rimetti i funghi in padella, lascia insaporire un minuto e addensa il fondo di cottura.",
-        "Spolvera con prezzemolo tritato e un po' di pepe e servi caldo."
-      ],
       "tag": [
         "autunno",
-        "funghi"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre"
-      ],
-      "note": "",
-      "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Scaloppine-ai-funghi.html"
-      }
-    },
-    {
-      "titolo": "Verza gratinata al forno",
-      "categoria": "Secondi",
-      "porzioni": 4,
-      "tempoPrep": 20,
-      "tempoCottura": 40,
-      "difficolta": "Facile",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "verza",
-          "qta": 1.5,
-          "unita": "kg",
-          "nota": "da pulire"
-        },
-        {
-          "nome": "prosciutto cotto",
-          "qta": 150,
-          "unita": "g"
-        },
-        {
-          "nome": "Emmentaler",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "Parmigiano Reggiano DOP",
-          "qta": 130,
-          "unita": "g",
-          "nota": "stagionato 18 mesi"
-        },
-        {
-          "nome": "pane",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "aglio",
-          "qta": 2,
-          "unita": "spicchio"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Elimina le foglie rovinate della verza, dividila in foglie e sbollentale in acqua salata per pochi minuti; scolale e asciugale.",
-        "Frulla il pane con metà del Parmigiano e un po' d'aglio per ottenere un pangrattato aromatico.",
-        "Taglia il prosciutto a striscioline e l'Emmentaler a dadini.",
-        "In una pirofila oliata sistema uno strato di verza, qualche striscia di prosciutto, Emmentaler e Parmigiano.",
-        "Ripeti gli strati e finisci con il pangrattato e un filo d'olio.",
-        "Inforna a 200 °C per circa 25 minuti, fino a ottenere una crosticina dorata."
-      ],
-      "tag": [
-        "autunno",
-        "verza",
-        "forno"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre",
-        "dicembre"
-      ],
-      "note": "",
-      "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Verza-gratinata-al-forno.html"
-      }
-    },
-    {
-      "titolo": "Zucca ripiena",
-      "categoria": "Contorni",
-      "porzioni": 4,
-      "tempoPrep": 20,
-      "tempoCottura": 40,
-      "difficolta": "Media",
-      "costo": "Medio",
-      "ingredienti": [
-        {
-          "nome": "zucca violina",
-          "qta": 1.4,
-          "unita": "kg"
-        },
-        {
-          "nome": "pomodorini datterini",
-          "qta": 150,
-          "unita": "g"
-        },
-        {
-          "nome": "ceci precotti",
-          "qta": 125,
-          "unita": "g",
-          "nota": "scolati"
-        },
-        {
-          "nome": "fagioli cannellini precotti",
-          "qta": 125,
-          "unita": "g",
-          "nota": "scolati"
-        },
-        {
-          "nome": "porro",
-          "qta": 70,
-          "unita": "g"
-        },
-        {
-          "nome": "nocciole intere spellate",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "olive nere denocciolate",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "aglio",
-          "qta": 2,
-          "unita": "spicchio"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": 40,
-          "unita": "ml"
-        },
-        {
-          "nome": "timo",
-          "qta": 4,
-          "unita": "pz",
-          "nota": "rametti"
-        },
-        {
-          "nome": "rosmarino",
-          "qta": 4,
-          "unita": "pz",
-          "nota": "rametti"
-        },
-        {
-          "nome": "origano fresco",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Taglia la zucca a metà nel senso della lunghezza, elimina i semi e scava un po' la polpa per formare due barchette.",
-        "Condisci le barchette con olio, sale, pepe e le erbe aromatiche e cuocile in forno a 200 °C per circa 25 minuti.",
-        "Trita il porro e fallo appassire in padella con olio e aglio.",
-        "Aggiungi i pomodorini a pezzi, i ceci, i fagioli, le olive e la polpa di zucca ricavata, e cuoci pochi minuti.",
-        "Farcisci la zucca con il composto, cospargi di nocciole tritate e rimetti in forno per 15 minuti.",
-        "Servi caldo con una spolverata di origano fresco."
-      ],
-      "tag": [
-        "autunno",
-        "zucca",
         "vegetariano"
       ],
       "stagione": [
@@ -685,302 +309,211 @@
         "novembre",
         "dicembre"
       ],
-      "note": "",
-      "foto": null,
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Zucca-ripiena.html"
+        "url": "https://ricette.giallozafferano.it/Risotto-alla-verza.html"
       }
     },
     {
-      "titolo": "Sformati di broccoli con salsa al caprino",
-      "categoria": "Antipasti",
-      "porzioni": 10,
-      "tempoPrep": 40,
-      "tempoCottura": 50,
-      "difficolta": "Media",
+      "titolo": "Pasta al ragù di cavolfiore",
+      "categoria": "Primi",
+      "porzioni": 4,
+      "tempoPrep": 15,
+      "tempoCottura": 55,
+      "difficolta": "Facile",
       "costo": "Basso",
       "ingredienti": [
         {
-          "nome": "broccoli",
-          "qta": 1,
-          "unita": "kg",
-          "nota": "da pulire"
-        },
-        {
-          "nome": "uova",
-          "qta": 2,
-          "unita": "pz"
-        },
-        {
-          "nome": "Grana Padano DOP",
-          "qta": 50,
-          "unita": "g",
-          "nota": "da grattugiare"
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "latte intero",
-          "qta": 300,
-          "unita": "ml",
-          "nota": "per la besciamella"
-        },
-        {
-          "nome": "burro",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "farina 00",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "noce moscata",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "caprino",
+          "nome": "mezze maniche rigate",
           "qta": 320,
           "unita": "g"
         },
         {
-          "nome": "latte intero",
-          "qta": 160,
-          "unita": "ml",
-          "nota": "per la salsa"
+          "nome": "cavolfiore",
+          "qta": 700,
+          "unita": "g",
+          "nota": "da pulire"
         },
         {
-          "nome": "burro",
-          "qta": 30,
-          "unita": "g",
-          "nota": "per gli stampini"
+          "nome": "passata di pomodoro",
+          "qta": 500,
+          "unita": "g"
         },
         {
-          "nome": "pangrattato",
-          "qta": 30,
-          "unita": "g",
-          "nota": "per gli stampini"
+          "nome": "concentrato di pomodoro",
+          "qta": 1,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "carote",
+          "qta": 2,
+          "unita": "pz"
+        },
+        {
+          "nome": "sedano",
+          "qta": 2,
+          "unita": "pz",
+          "nota": "coste"
+        },
+        {
+          "nome": "cipolle dorate",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
+        },
+        {
+          "nome": "timo",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "Pecorino Romano DOP",
+          "qta": null,
+          "unita": "q.b."
         }
       ],
       "passi": [
-        "Pulisci i broccoli, dividili in cimette e cuocili a vapore o in acqua salata finché sono morbidi.",
-        "Prepara una besciamella con burro, farina e latte, insaporita con sale, pepe e noce moscata.",
-        "Frulla i broccoli con la besciamella, le uova e il Grana fino a un composto omogeneo.",
-        "Imburra gli stampini, spolverali di pangrattato e riempili con il composto.",
-        "Cuoci in forno a bagnomaria a 170 °C per circa 35 minuti.",
-        "Scalda il caprino con il latte, mescolando fino a una salsa liscia, e regola di sale e pepe.",
-        "Sforma gli sformati e servili con la salsa calda."
+        "Pulisci il cavolfiore e riducilo in cimette piccole, poi tritalo grossolanamente.",
+        "Prepara un trito fine di carote, sedano e cipolla e fallo appassire in olio con rosmarino e timo.",
+        "Aggiungi il cavolfiore e lascialo insaporire per alcuni minuti mescolando.",
+        "Stempera il concentrato nella passata, versala nella pentola e regola di sale e pepe.",
+        "Cuoci coperto a fiamma bassa per circa 40 minuti, finché il cavolfiore è quasi disfatto e il sugo denso.",
+        "Lessa la pasta al dente, condiscila con il ragù e completa con pecorino grattugiato."
       ],
+      "note": "",
+      "foto": null,
       "tag": [
         "autunno",
-        "broccoli",
         "vegetariano"
       ],
       "stagione": [
         "ottobre",
-        "novembre",
-        "dicembre"
-      ],
-      "note": "",
-      "foto": null,
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Sformati-di-broccoli-con-salsa-al-caprino.html"
-      }
-    },
-    {
-      "titolo": "Torta di castagne e cioccolato",
-      "categoria": "Dolci",
-      "porzioni": 8,
-      "tempoPrep": 15,
-      "tempoCottura": 70,
-      "difficolta": "Media",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "farina di castagne",
-          "qta": 240,
-          "unita": "g"
-        },
-        {
-          "nome": "cacao amaro in polvere",
-          "qta": 20,
-          "unita": "g"
-        },
-        {
-          "nome": "zucchero",
-          "qta": 160,
-          "unita": "g"
-        },
-        {
-          "nome": "uova",
-          "qta": 5,
-          "unita": "pz",
-          "nota": "medie"
-        },
-        {
-          "nome": "lievito in polvere per dolci",
-          "qta": 16,
-          "unita": "g"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 310,
-          "unita": "ml"
-        },
-        {
-          "nome": "baccello di vaniglia",
-          "qta": 1,
-          "unita": "pz"
-        }
-      ],
-      "passi": [
-        "Setaccia insieme farina di castagne, cacao e lievito per evitare grumi.",
-        "Monta le uova con lo zucchero e i semi di vaniglia fino a ottenere un composto chiaro e spumoso.",
-        "Incorpora le polveri alternandole al latte, mescolando con delicatezza dal basso verso l'alto.",
-        "Versa l'impasto, piuttosto fluido, in uno stampo foderato di carta forno.",
-        "Cuoci in forno statico a 170 °C per circa 70 minuti, controllando con uno stecchino.",
-        "Lascia raffreddare completamente prima di sformare e tagliare."
-      ],
-      "tag": [
-        "autunno",
-        "castagne",
-        "cioccolato"
-      ],
-      "stagione": [
-        "ottobre",
         "novembre"
       ],
-      "note": "",
-      "foto": null,
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Torta-di-castagne-e-cioccolato.html"
+        "url": "https://ricette.giallozafferano.it/Pasta-al-ragu-di-cavolfiore.html"
       }
     },
     {
-      "titolo": "Torta di pere",
-      "categoria": "Dolci",
-      "porzioni": 6,
-      "tempoPrep": 20,
-      "tempoCottura": 60,
+      "titolo": "Spianatine con funghi e fonduta di fontina",
+      "categoria": "Antipasti",
+      "porzioni": 4,
+      "tempoPrep": 15,
+      "tempoCottura": 20,
       "difficolta": "Media",
-      "costo": "Basso",
+      "costo": "Medio",
       "ingredienti": [
         {
-          "nome": "pere Williams",
-          "qta": 760,
+          "nome": "cracker al pomodoro",
+          "qta": 12,
+          "unita": "pz"
+        },
+        {
+          "nome": "funghi misti",
+          "qta": 300,
           "unita": "g"
         },
         {
-          "nome": "farina 00",
-          "qta": 225,
+          "nome": "fontina",
+          "qta": 200,
           "unita": "g"
         },
         {
-          "nome": "zucchero di canna",
-          "qta": 170,
-          "unita": "g"
+          "nome": "prezzemolo",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "ciuffo"
+        },
+        {
+          "nome": "aglio",
+          "qta": 1,
+          "unita": "spicchio"
         },
         {
           "nome": "burro",
-          "qta": 120,
-          "unita": "g",
-          "nota": "morbido"
-        },
-        {
-          "nome": "uova",
-          "qta": 2,
-          "unita": "pz",
-          "nota": "medie"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 100,
-          "unita": "ml"
-        },
-        {
-          "nome": "rum",
-          "qta": 15,
-          "unita": "ml"
-        },
-        {
-          "nome": "succo di limone",
-          "qta": 0.5,
-          "unita": "pz",
-          "nota": "mezzo limone"
-        },
-        {
-          "nome": "lievito in polvere per dolci",
-          "qta": 8,
+          "qta": 35,
           "unita": "g"
         },
         {
-          "nome": "zucchero a velo",
+          "nome": "latte intero",
+          "qta": 125,
+          "unita": "ml"
+        },
+        {
+          "nome": "tuorli",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "sale fino",
           "qta": null,
           "unita": "q.b."
         },
         {
-          "nome": "cannella in polvere",
+          "nome": "pepe nero",
           "qta": null,
           "unita": "q.b."
         }
       ],
       "passi": [
-        "Sbuccia le pere, tagliale a pezzi e irrorale con il succo di limone perché non scuriscano.",
-        "Lavora il burro morbido con lo zucchero di canna fino a ottenere una crema.",
-        "Aggiungi le uova una alla volta, poi il latte e il rum.",
-        "Incorpora farina, lievito e un pizzico di cannella setacciati e unisci metà delle pere.",
-        "Versa l'impasto in una tortiera, decora con le pere rimaste e inforna a 170 °C per circa 60 minuti.",
-        "Fai raffreddare e completa con una spolverata di zucchero a velo."
+        "Taglia la fontina a cubetti e lasciala ammorbidire nel latte per un'ora.",
+        "Pulisci i funghi con un panno umido e affettali.",
+        "Fai dorare l'aglio nel burro, poi cuoci i funghi a fuoco vivace fino a quando perdono l'acqua.",
+        "Regola di sale e pepe e profuma con il prezzemolo tritato.",
+        "Scalda la fontina con il suo latte a bagnomaria, mescolando, e incorpora il tuorlo per una crema liscia.",
+        "Disponi i cracker nei piatti, copri con i funghi e versa la fonduta calda."
       ],
+      "note": "",
+      "foto": null,
       "tag": [
         "autunno",
-        "pere"
+        "finger food"
       ],
       "stagione": [
         "ottobre",
         "novembre"
       ],
-      "note": "",
-      "foto": null,
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Torta-di-pere.html"
+        "url": "https://ricette.giallozafferano.it/Spianatine-con-funghi-e-fonduta-di-fontina.html"
       }
     },
     {
-      "titolo": "Torta zucca e cioccolato",
-      "categoria": "Dolci",
+      "titolo": "Triangolini di ricotta con taleggio e pere",
+      "categoria": "Antipasti",
       "porzioni": 8,
-      "tempoPrep": 30,
-      "tempoCottura": 60,
+      "tempoPrep": 60,
+      "tempoCottura": 25,
       "difficolta": "Media",
       "costo": "Basso",
       "ingredienti": [
         {
-          "nome": "zucca",
-          "qta": 600,
-          "unita": "g"
-        },
-        {
-          "nome": "zucchero",
-          "qta": 180,
+          "nome": "ricotta vaccina",
+          "qta": 250,
           "unita": "g"
         },
         {
@@ -989,30 +522,359 @@
           "unita": "g"
         },
         {
-          "nome": "farina di nocciole",
-          "qta": 50,
+          "nome": "burro",
+          "qta": 175,
           "unita": "g"
         },
         {
-          "nome": "olio di semi",
+          "nome": "uova",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "groviera",
           "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "taleggio",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "prosciutto cotto",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "pere",
+          "qta": 2,
+          "unita": "pz"
+        }
+      ],
+      "passi": [
+        "Impasta farina, ricotta e burro morbido a pezzetti, formando un panetto liscio.",
+        "Fai riposare l'impasto in frigorifero avvolto nella pellicola per circa mezz'ora.",
+        "Sbuccia le pere e tagliale a dadini; riduci a cubetti anche taleggio, groviera e prosciutto.",
+        "Stendi la pasta sottile e ritaglia dei quadrati.",
+        "Farcisci metà dei quadrati con taleggio e pere e gli altri con prosciutto e groviera.",
+        "Chiudi a triangolo, sigilla i bordi, spennella con l'uovo sbattuto e cuoci a 180 °C finché sono dorati."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "antipasto"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Triangolini-di-ricotta-con-taleggio-e-pere.html"
+      }
+    },
+    {
+      "titolo": "Brasato ai funghi e vino rosso",
+      "categoria": "Secondi",
+      "porzioni": 4,
+      "tempoPrep": 20,
+      "tempoCottura": 180,
+      "difficolta": "Media",
+      "costo": "Medio",
+      "ingredienti": [
+        {
+          "nome": "manzo magatello",
+          "qta": 1,
+          "unita": "kg"
+        },
+        {
+          "nome": "carote",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "sedano",
+          "qta": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "vino rosso",
+          "qta": 750,
           "unita": "ml"
         },
         {
-          "nome": "uova",
+          "nome": "acqua",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "chiodi di garofano",
           "qta": 3,
           "unita": "pz"
         },
         {
-          "nome": "cioccolato fondente",
-          "qta": 100,
-          "unita": "g",
-          "nota": "per l'impasto"
+          "nome": "pepe nero in grani",
+          "qta": 3,
+          "unita": "pz"
         },
         {
-          "nome": "estratto di vaniglia",
+          "nome": "funghi misti",
+          "qta": 300,
+          "unita": "g",
+          "nota": "champignon e chiodini"
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Metti la carne in una ciotola con carote e sedano a pezzi, chiodi di garofano, pepe in grani e il vino, e lasciala marinare in frigorifero per una notte.",
+        "Scola la carne, asciugala e rosolala su tutti i lati in una pentola.",
+        "Aggiungi le verdure della marinata e parte del vino filtrato, poi copri e cuoci a fuoco basso.",
+        "Rigira il pezzo ogni tanto e allunga con un po' d'acqua se il fondo si asciuga troppo.",
+        "Dopo circa due ore aggiungi i funghi puliti e a pezzi e continua fino a quando la carne è tenera.",
+        "Frulla le verdure con il fondo di cottura per ottenere una salsa, affetta il brasato e servilo ben irrorato."
+      ],
+      "note": "Tempi di preparazione e cottura stimati.",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "carne"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Brasato-ai-funghi-e-vino-rosso.html"
+      }
+    },
+    {
+      "titolo": "Spezzatino di vitello con patate",
+      "categoria": "Secondi",
+      "porzioni": 4,
+      "tempoPrep": 30,
+      "tempoCottura": 130,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "vitello",
           "qta": 1,
-          "unita": "cucchiaino"
+          "unita": "kg",
+          "nota": "a pezzi"
+        },
+        {
+          "nome": "patate",
+          "qta": 1,
+          "unita": "kg",
+          "nota": "da pulire"
+        },
+        {
+          "nome": "carote",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "sedano",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "costa"
+        },
+        {
+          "nome": "cipolle bianche",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "brodo di carne",
+          "qta": 750,
+          "unita": "g"
+        },
+        {
+          "nome": "sale",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "farina 00",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "vino bianco",
+          "qta": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "salvia",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
+        },
+        {
+          "nome": "timo",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
+        }
+      ],
+      "passi": [
+        "Taglia a tocchetti sedano, carota e cipolla, e fai appassire tutto in una casseruola con l'olio.",
+        "Infarina la carne, uniscila al soffritto e fai rosolare a fuoco vivace.",
+        "Sfuma con il vino bianco e lascialo evaporare.",
+        "Aggiungi le erbe aromatiche, sale e pepe, copri con parte del brodo caldo e cuoci a fuoco dolce con il coperchio.",
+        "Dopo circa un'ora e mezza unisci le patate a pezzi e altro brodo se serve.",
+        "Prosegui per un'altra mezz'ora finché carne e patate sono morbide e il fondo si è ristretto."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "carne"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Spezzatino-di-vitello-con-patate.html"
+      }
+    },
+    {
+      "titolo": "Bicchierini di castagne al cucchiaio",
+      "categoria": "Dolci",
+      "porzioni": 4,
+      "tempoPrep": 30,
+      "tempoCottura": 30,
+      "difficolta": "Media",
+      "costo": "Medio",
+      "ingredienti": [
+        {
+          "nome": "castagne",
+          "qta": 700,
+          "unita": "g"
+        },
+        {
+          "nome": "cioccolato fondente",
+          "qta": 150,
+          "unita": "g"
+        },
+        {
+          "nome": "burro",
+          "qta": 150,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 130,
+          "unita": "g"
+        },
+        {
+          "nome": "rum",
+          "qta": 6,
+          "unita": "ml"
+        },
+        {
+          "nome": "panna fresca liquida",
+          "qta": 300,
+          "unita": "g"
+        },
+        {
+          "nome": "cioccolato fondente",
+          "qta": 45,
+          "unita": "g",
+          "nota": "per decorare"
+        },
+        {
+          "nome": "zucchero a velo",
+          "qta": 20,
+          "unita": "g"
+        }
+      ],
+      "passi": [
+        "Lessa le castagne finché sono tenere, poi sbucciale e passale con lo schiacciapatate.",
+        "Sciogli il cioccolato a bagnomaria e lascialo intiepidire.",
+        "Lavora il burro morbido con lo zucchero fino a ottenere una crema chiara.",
+        "Incorpora la purea di castagne, il cioccolato fuso e il rum, mescolando bene.",
+        "Monta la panna con lo zucchero a velo e distribuiscila nei bicchieri alternandola alla crema di castagne.",
+        "Decora con scaglie di cioccolato e lascia riposare in frigorifero prima di servire."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "dessert al cucchiaio"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Bicchierini-di-castagne-al-cucchiaio.html"
+      }
+    },
+    {
+      "titolo": "Crostata di castagne e cioccolato",
+      "categoria": "Dolci",
+      "porzioni": 8,
+      "tempoPrep": 90,
+      "tempoCottura": 65,
+      "difficolta": "Media",
+      "costo": "Medio",
+      "ingredienti": [
+        {
+          "nome": "farina 00",
+          "qta": 380,
+          "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 2,
+          "unita": "pz"
+        },
+        {
+          "nome": "burro freddo",
+          "qta": 90,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero di canna",
+          "qta": 150,
+          "unita": "g"
         },
         {
           "nome": "sale fino",
@@ -1020,144 +882,265 @@
           "unita": "pizzico"
         },
         {
-          "nome": "lievito in polvere per dolci",
-          "qta": 10,
+          "nome": "castagne",
+          "qta": 500,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero di canna",
+          "qta": 40,
+          "unita": "g",
+          "nota": "per il ripieno"
+        },
+        {
+          "nome": "latte di riso",
+          "qta": 160,
           "unita": "g"
         },
         {
           "nome": "cioccolato fondente",
-          "qta": 240,
-          "unita": "g",
-          "nota": "per la glassa"
+          "qta": 135,
+          "unita": "g"
         },
         {
-          "nome": "panna fresca liquida",
-          "qta": 120,
-          "unita": "ml"
+          "nome": "ricotta vaccina",
+          "qta": 60,
+          "unita": "g"
         },
         {
-          "nome": "alchechengi",
-          "qta": 75,
-          "unita": "g",
-          "nota": "per decorare"
+          "nome": "zucchero a velo",
+          "qta": null,
+          "unita": "q.b."
         }
       ],
       "passi": [
-        "Cuoci la zucca a pezzi in forno o al vapore fino a renderla morbida e riducila in purea; lasciala raffreddare.",
-        "Sciogli il cioccolato dell'impasto a bagnomaria e fallo intiepidire.",
-        "Monta le uova con lo zucchero, poi aggiungi olio, vaniglia, purea di zucca e cioccolato fuso.",
-        "Incorpora farine, lievito e sale e versa il composto in una tortiera.",
-        "Cuoci a 170 °C per circa 55-60 minuti e lascia raffreddare.",
-        "Scalda la panna, versala sul cioccolato tritato e mescola per ottenere una glassa lucida.",
-        "Ricopri la torta con la glassa e decora con gli alchechengi."
+        "Lavora farina, burro freddo a cubetti, zucchero, sale e uova fino a un impasto compatto, poi riposa in frigorifero.",
+        "Lessa le castagne, sbucciale e frullale con zucchero di canna e latte di riso fino a una crema.",
+        "Sciogli il cioccolato, unisci la ricotta e incorpora il composto di castagne.",
+        "Stendi la frolla, rivesti uno stampo e bucherella il fondo.",
+        "Versa la crema e decora con strisce di pasta avanzata.",
+        "Cuoci a 180 °C per circa un'ora, lascia raffreddare e spolverizza con zucchero a velo."
       ],
+      "note": "",
+      "foto": null,
       "tag": [
         "autunno",
-        "zucca",
-        "cioccolato"
+        "dolce"
       ],
       "stagione": [
         "ottobre",
         "novembre"
       ],
-      "note": "",
-      "foto": null,
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Torta-zucca-e-cioccolato.html"
+        "url": "https://ricette.giallozafferano.it/Crostata-di-castagne-e-cioccolato.html"
       }
     },
     {
-      "titolo": "Panini dolci con frutta",
-      "categoria": "Lievitati",
-      "porzioni": 18,
-      "tempoPrep": 40,
-      "tempoCottura": 20,
+      "titolo": "Torta umida con pere e cioccolato",
+      "categoria": "Dolci",
+      "porzioni": 8,
+      "tempoPrep": 20,
+      "tempoCottura": 30,
       "difficolta": "Media",
-      "costo": "Basso",
+      "costo": "Medio",
       "ingredienti": [
         {
-          "nome": "farina Manitoba",
+          "nome": "pere",
+          "qta": 600,
+          "unita": "g",
+          "nota": "peso pulito"
+        },
+        {
+          "nome": "cioccolato fondente",
           "qta": 150,
           "unita": "g"
         },
         {
           "nome": "farina 00",
-          "qta": 350,
-          "unita": "g"
-        },
-        {
-          "nome": "lievito di birra secco",
-          "qta": 2,
-          "unita": "g"
-        },
-        {
-          "nome": "zucchero",
-          "qta": 60,
-          "unita": "g"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 350,
-          "unita": "ml"
-        },
-        {
-          "nome": "scorza d'arancia",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "non trattata"
-        },
-        {
-          "nome": "burro",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "sale fino",
-          "qta": 5,
-          "unita": "g"
-        },
-        {
-          "nome": "prugne disidratate cotte sottovuoto",
           "qta": 100,
           "unita": "g"
         },
         {
-          "nome": "pere cotte sottovuoto",
-          "qta": 80,
+          "nome": "burro",
+          "qta": 100,
           "unita": "g"
         },
         {
           "nome": "uova",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "per spennellare"
+          "qta": 3,
+          "unita": "pz"
+        },
+        {
+          "nome": "cannella in polvere",
+          "qta": 3,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 130,
+          "unita": "g"
+        },
+        {
+          "nome": "latte intero",
+          "qta": 220,
+          "unita": "ml"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 40,
+          "unita": "g",
+          "nota": "per la copertura"
+        },
+        {
+          "nome": "succo di limone",
+          "qta": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "cacao amaro in polvere",
+          "qta": 20,
+          "unita": "g"
         }
       ],
       "passi": [
-        "Mescola le farine con il lievito e lo zucchero, poi aggiungi il latte e impasta fino a un composto elastico.",
-        "Incorpora il burro morbido, il sale e la scorza d'arancia grattugiata e lavora ancora finché l'impasto è liscio.",
-        "Taglia prugne e pere a pezzetti e distribuiscili sull'impasto, ripiegandolo per inglobarli.",
-        "Lascia lievitare in luogo tiepido, coperto, finché raddoppia di volume.",
-        "Dividi in 18 palline, disponile sulla teglia e fai lievitare ancora per circa un'ora.",
-        "Spennella con l'uovo sbattuto e cuoci a 180 °C per circa 20 minuti, fino a doratura."
+        "Sbuccia le pere, tagliale a fettine e irrorale con il succo di limone.",
+        "Sciogli cioccolato e burro a bagnomaria e lascia intiepidire.",
+        "Monta le uova con 130 g di zucchero, poi unisci il latte, la farina, il cacao e la cannella.",
+        "Incorpora il cioccolato fuso e mescola fino a una pastella fluida.",
+        "Disponi le pere in una teglia, versa la pastella e cospargi di zucchero.",
+        "Cuoci in forno caldo finché in superficie si forma una crosticina caramellata, poi servi con il cucchiaio."
       ],
+      "note": "",
+      "foto": null,
       "tag": [
         "autunno",
-        "frutta",
-        "lievitati"
+        "dolce"
       ],
       "stagione": [
         "ottobre",
         "novembre"
       ],
-      "note": "",
-      "foto": null,
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Panini-dolci-con-frutta.html"
+        "url": "https://ricette.giallozafferano.it/Torta-umida-con-pere-e-cioccolato.html"
+      }
+    },
+    {
+      "titolo": "Graffe",
+      "categoria": "Lievitati",
+      "porzioni": 20,
+      "tempoPrep": 20,
+      "tempoCottura": 10,
+      "difficolta": "Media",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "latte intero",
+          "qta": 120,
+          "unita": "ml",
+          "nota": "tiepido"
+        },
+        {
+          "nome": "farina 00",
+          "qta": 130,
+          "unita": "g"
+        },
+        {
+          "nome": "lievito di birra secco",
+          "qta": 3,
+          "unita": "g"
+        },
+        {
+          "nome": "patate",
+          "qta": 300,
+          "unita": "g"
+        },
+        {
+          "nome": "farina Manitoba",
+          "qta": 400,
+          "unita": "g"
+        },
+        {
+          "nome": "farina 00",
+          "qta": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 3,
+          "unita": "pz",
+          "nota": "medie"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "burro",
+          "qta": 100,
+          "unita": "g",
+          "nota": "ammorbidito"
+        },
+        {
+          "nome": "miele di acacia",
+          "qta": 8,
+          "unita": "g"
+        },
+        {
+          "nome": "scorza di limone",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "sale fino",
+          "qta": 8,
+          "unita": "g"
+        },
+        {
+          "nome": "burro",
+          "qta": 30,
+          "unita": "g",
+          "nota": "per la teglia"
+        },
+        {
+          "nome": "olio di semi di arachide",
+          "qta": 1,
+          "unita": "l"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 200,
+          "unita": "g",
+          "nota": "per rotolare"
+        }
+      ],
+      "passi": [
+        "Prepara un lievitino con latte, 130 g di farina e il lievito, e lascialo gonfiare per un'ora circa.",
+        "Lessa le patate, schiacciale e lasciale raffreddare.",
+        "Impasta il lievitino con farine, patate, uova, zucchero, miele e scorza, poi aggiungi il burro morbido e il sale.",
+        "Lavora fino a un impasto liscio e lascia lievitare coperto fino al raddoppio.",
+        "Stendi, ritaglia le ciambelle e falle lievitare ancora su carta imburrata.",
+        "Friggi nell'olio caldo, girando a metà cottura, scola su carta assorbente e rotola nello zucchero."
+      ],
+      "note": "Tempo di lievitazione escluso.",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "fritto",
+        "lievitato"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Graffe.html"
       }
     }
   ]
