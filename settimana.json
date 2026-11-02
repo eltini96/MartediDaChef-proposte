@@ -768,6 +768,57 @@
       }
     },
     {
+      "titolo": "Budino cachi e cacao",
+      "categoria": "Dolci",
+      "porzioni": 4,
+      "tempoPrep": 10,
+      "tempoCottura": 0,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "cachi maturi",
+          "qta": 700,
+          "unita": "g"
+        },
+        {
+          "nome": "cacao amaro in polvere",
+          "qta": 40,
+          "unita": "g",
+          "nota": "più un po' per decorare"
+        },
+        {
+          "nome": "granella di mandorle caramellata",
+          "qta": null,
+          "unita": "q.b.",
+          "nota": "o frutta secca mista"
+        }
+      ],
+      "passi": [
+        "Scegli cachi molto maturi e morbidi, tagliali a metà e raccogli la polpa con un cucchiaio eliminando semi e parti dure.",
+        "Frulla la polpa fino a ottenere una crema omogenea.",
+        "Aggiungi il cacao setacciato e frulla ancora finché non ci sono grumi.",
+        "Distribuisci la crema in bicchierini o coppette.",
+        "Lascia riposare in frigorifero per un'ora, così il budino si compatta.",
+        "Servi spolverando con poco cacao e granella di mandorle caramellata."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "cachi",
+        "senza cottura"
+      ],
+      "stagione": [
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Budino-cachi-e-cacao.html"
+      }
+    },
+    {
       "titolo": "Budino di castagne",
       "categoria": "Dolci",
       "porzioni": 6,
