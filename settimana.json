@@ -1,148 +1,52 @@
 {
   "formato": "martedi-da-chef/ricette-1",
-  "settimana": "2026-W45",
-  "aggiornato": "2026-11-02",
-  "nota": "Funghi, verza, radicchio, finocchi, castagne e pere: i sapori di inizio novembre.",
+  "settimana": "2026-W46",
+  "aggiornato": "2026-11-09",
+  "nota": "Zucca, broccoli, radicchio, lenticchie, mele e pere: i sapori di metà novembre.",
   "ricette": [
     {
-      "titolo": "Ravioli ricotta e spinaci",
+      "titolo": "Pasta e patate alla napoletana",
       "categoria": "Primi",
       "porzioni": 4,
-      "tempoPrep": 60,
-      "tempoCottura": 10,
-      "difficolta": "Media",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "farina 00",
-          "qta": 200,
-          "unita": "g"
-        },
-        {
-          "nome": "uova",
-          "qta": 2,
-          "unita": "pz"
-        },
-        {
-          "nome": "spinaci",
-          "qta": 135,
-          "unita": "g"
-        },
-        {
-          "nome": "ricotta vaccina",
-          "qta": 70,
-          "unita": "g"
-        },
-        {
-          "nome": "formaggio grattugiato",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "noce moscata",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "semola",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "acqua",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Lessa gli spinaci in poca acqua salata, scolali, strizzali bene e tritali finemente.",
-        "Mescola gli spinaci con la ricotta e il formaggio grattugiato, poi insaporisci con sale, pepe e una grattata di noce moscata.",
-        "Disponi la farina a fontana, rompi al centro le uova e impasta fino a ottenere un panetto liscio; lascialo riposare coperto per circa 30 minuti.",
-        "Stendi la pasta in una sfoglia sottile con il mattarello o la macchina, spolverando con un po' di semola.",
-        "Metti mucchietti di ripieno a distanza regolare, copri con altra sfoglia, premi attorno al ripieno ed elimina l'aria.",
-        "Ritaglia i ravioli con una rotella e adagiali su un vassoio infarinato di semola.",
-        "Cuocili in abbondante acqua salata in ebollizione per pochi minuti, scolali e condiscili a piacere, per esempio con burro e salvia."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "pasta fresca",
-        "spinaci"
-      ],
-      "stagione": [
-        "novembre",
-        "dicembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Ravioli-ricotta-e-spinaci.html"
-      }
-    },
-    {
-      "titolo": "Pasta al radicchio, porri e pancetta",
-      "categoria": "Primi",
-      "porzioni": 4,
-      "tempoPrep": 15,
-      "tempoCottura": 40,
+      "tempoPrep": 20,
+      "tempoCottura": 50,
       "difficolta": "Facile",
       "costo": "Basso",
       "ingredienti": [
         {
-          "nome": "spaghetti integrali",
+          "nome": "pasta mista",
           "qta": 320,
           "unita": "g"
         },
         {
-          "nome": "radicchio",
-          "qta": 280,
+          "nome": "patate",
+          "qta": 800,
           "unita": "g"
         },
         {
-          "nome": "porri",
-          "qta": 230,
-          "unita": "g"
+          "nome": "cipolle bianche",
+          "qta": 1,
+          "unita": "pz"
         },
         {
-          "nome": "pancetta dolce",
-          "qta": 70,
-          "unita": "g"
-        },
-        {
-          "nome": "acqua",
+          "nome": "lardo",
           "qta": 150,
           "unita": "g"
         },
         {
+          "nome": "concentrato di pomodoro",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "crosta di Parmigiano Reggiano DOP",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
           "nome": "olio extravergine d'oliva",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "mandorle pelate",
-          "qta": 25,
-          "unita": "g"
-        },
-        {
-          "nome": "Parmigiano Reggiano DOP",
-          "qta": 35,
-          "unita": "g",
-          "nota": "da grattugiare"
-        },
-        {
-          "nome": "aglio",
-          "qta": 1,
-          "unita": "spicchio"
+          "qta": null,
+          "unita": "q.b."
         },
         {
           "nome": "sale fino",
@@ -153,79 +57,137 @@
           "nome": "pepe nero",
           "qta": null,
           "unita": "q.b."
-        },
-        {
-          "nome": "origano fresco",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "mandorle in scaglie",
-          "qta": null,
-          "unita": "q.b."
         }
       ],
       "passi": [
-        "Pulisci i porri e tagliali a rondelle; riduci il radicchio a listarelle e la pancetta a dadini.",
-        "Scalda l'olio con l'aglio, unisci i porri e fai appassire dolcemente aggiungendo un po' di acqua se tendono ad attaccarsi.",
-        "Aggiungi la pancetta e fai rosolare finché sprigiona il suo grasso, poi unisci il radicchio e cuoci qualche minuto.",
-        "Frulla una parte delle verdure con le mandorle e un po' di acqua per ottenere una crema, che userai come condimento.",
-        "Lessa gli spaghetti in acqua salata, scolali al dente e saltali in padella con la crema e le verdure.",
-        "Completa con parmigiano, pepe, origano e mandorle in scaglie, quindi servi subito."
+        "Trita finemente il lardo e la cipolla e falli rosolare dolcemente in una casseruola capiente con un filo d'olio.",
+        "Sbuccia le patate, tagliale a cubetti e uniscile al soffritto, mescolando per qualche minuto.",
+        "Sciogli il concentrato di pomodoro in poca acqua calda e versalo sulle patate insieme alla crosta di Parmigiano ben lavata.",
+        "Copri con acqua calda a filo, sala e cuoci a fuoco medio-basso per circa 30 minuti, schiacciando qualche patata per rendere il fondo cremoso.",
+        "Aggiungi la pasta mista direttamente nella pentola e portala a cottura, mescolando spesso e allungando con acqua calda se si asciuga troppo.",
+        "Spegni quando la pasta è al dente e il composto è denso, lascia riposare qualche minuto e servi con una macinata di pepe."
       ],
       "note": "",
       "foto": null,
       "tag": [
-        "radicchio",
-        "porri"
+        "autunno",
+        "comfort food"
       ],
       "stagione": [
+        "ottobre",
         "novembre",
         "dicembre"
       ],
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Pasta-al-radicchio-porri-e-pancetta.html"
+        "url": "https://ricette.giallozafferano.it/Pasta-e-patate-alla-napoletana.html"
       }
     },
     {
-      "titolo": "Risotto ai funghi",
+      "titolo": "Risotto al radicchio",
       "categoria": "Primi",
-      "porzioni": 4,
-      "tempoPrep": 20,
-      "tempoCottura": 30,
+      "porzioni": 2,
+      "tempoPrep": 15,
+      "tempoCottura": 20,
       "difficolta": "Facile",
       "costo": "Medio",
       "ingredienti": [
         {
           "nome": "riso Carnaroli",
-          "qta": 320,
-          "unita": "g"
-        },
-        {
-          "nome": "funghi porcini",
           "qta": 180,
           "unita": "g"
         },
         {
-          "nome": "funghi finferli",
-          "qta": 100,
+          "nome": "radicchio",
+          "qta": 200,
           "unita": "g"
         },
         {
-          "nome": "funghi champignon",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "funghi portobello",
-          "qta": 100,
-          "unita": "g"
+          "nome": "vino rosso",
+          "qta": 0.5,
+          "unita": "pz",
+          "nota": "mezzo bicchiere"
         },
         {
           "nome": "cipolle bianche",
-          "qta": 50,
+          "qta": 0.5,
+          "unita": "pz"
+        },
+        {
+          "nome": "Grana Padano DOP",
+          "qta": 2,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "brodo vegetale",
+          "qta": 1,
+          "unita": "l"
+        },
+        {
+          "nome": "burro",
+          "qta": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "timo",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "un mazzetto"
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Lava il radicchio e tagliala a striscioline sottili; trita la cipolla e tieni il brodo vegetale sempre caldo.",
+        "In una casseruola sciogli metà del burro e fai appassire la cipolla senza farla colorire.",
+        "Unisci il radicchio e il timo e fai stufare per alcuni minuti, finché le foglie si ammorbidiscono.",
+        "Aggiungi il riso e tostalo un paio di minuti, poi sfuma con il vino rosso e lascia evaporare.",
+        "Cuoci il risotto per circa 15 minuti aggiungendo il brodo caldo un mestolo alla volta e mescolando.",
+        "Spegni il fuoco, manteca con il burro rimasto e il Grana Padano, regola di sale e pepe e fai riposare un minuto prima di servire."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "radicchio"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Risotto-al-radicchio.html"
+      }
+    },
+    {
+      "titolo": "Pasta con broccoli",
+      "categoria": "Primi",
+      "porzioni": 4,
+      "tempoPrep": 10,
+      "tempoCottura": 30,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "troccoli freschi",
+          "qta": 320,
+          "unita": "g"
+        },
+        {
+          "nome": "broccoli",
+          "qta": 450,
           "unita": "g"
         },
         {
@@ -234,11 +196,6 @@
           "unita": "spicchio"
         },
         {
-          "nome": "brodo vegetale",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
           "nome": "olio extravergine d'oliva",
           "qta": null,
           "unita": "q.b."
@@ -252,171 +209,208 @@
           "nome": "pepe nero",
           "qta": null,
           "unita": "q.b."
-        },
-        {
-          "nome": "Grana Padano DOP",
-          "qta": 60,
-          "unita": "g",
-          "nota": "da grattugiare"
-        },
-        {
-          "nome": "burro",
-          "qta": 60,
-          "unita": "g",
-          "nota": "freddo"
         }
       ],
       "passi": [
-        "Pulisci i funghi con un panno umido e tagliali a pezzi di media grandezza.",
-        "Fai soffriggere in olio la cipolla tritata e l'aglio, poi unisci i funghi e fai dorare a fuoco vivo; sala e pepa.",
-        "Tieni da parte una parte dei funghi per la decorazione e a quelli rimasti unisci il riso, tostandolo per un paio di minuti.",
-        "Versa il brodo caldo poco alla volta, mescolando, e prosegui per circa 15 minuti, finché il riso è al dente.",
-        "Togli dal fuoco e manteca con il burro freddo e il Grana Padano grattugiato.",
-        "Lascia riposare un minuto, impiatta e guarnisci con i funghi messi da parte."
+        "Dividi i broccoli in cimette, lavali e sbollentali in acqua salata per circa 10 minuti.",
+        "Scolali con una schiumarola, conservando l'acqua di cottura per la pasta.",
+        "In una padella ampia scalda abbondante olio con lo spicchio d'aglio schiacciato, poi aggiungi i broccoli.",
+        "Cuocili a fuoco medio per 15 minuti schiacciandoli con una forchetta, così si riducono quasi a crema; elimina l'aglio.",
+        "Cuoci la pasta nella stessa acqua dei broccoli, scolala al dente e tienine da parte un mestolo.",
+        "Trasferisci la pasta nella padella, salta il tutto allungando con l'acqua di cottura e finisci con pepe e un filo d'olio crudo."
       ],
       "note": "",
       "foto": null,
       "tag": [
-        "funghi",
-        "risotto"
+        "autunno",
+        "vegetariano"
       ],
       "stagione": [
         "ottobre",
-        "novembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Risotto-ai-funghi.html"
-      }
-    },
-    {
-      "titolo": "Timballo di verza con fonduta di taleggio",
-      "categoria": "Primi",
-      "porzioni": 6,
-      "tempoPrep": 30,
-      "tempoCottura": 30,
-      "difficolta": "Facile",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "spaghetti quadrati",
-          "qta": 320,
-          "unita": "g"
-        },
-        {
-          "nome": "verza",
-          "qta": 700,
-          "unita": "g"
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": 1,
-          "unita": "pizzico"
-        },
-        {
-          "nome": "scalogno",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "pancetta affumicata",
-          "qta": 80,
-          "unita": "g"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": 60,
-          "unita": "g"
-        },
-        {
-          "nome": "Grana Padano DOP",
-          "qta": 20,
-          "unita": "g",
-          "nota": "grattugiato"
-        },
-        {
-          "nome": "taleggio",
-          "qta": 200,
-          "unita": "g"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "burro",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "farina 00",
-          "qta": 30,
-          "unita": "g"
-        },
-        {
-          "nome": "noce moscata",
-          "qta": 1,
-          "unita": "pizzico"
-        }
-      ],
-      "passi": [
-        "Elimina il torsolo della verza, taglia le foglie a striscioline e sbollentale per qualche minuto in acqua salata; scolale.",
-        "Rosola in padella lo scalogno tritato con la pancetta a dadini, aggiungi la verza e cuoci finché si ammorbidisce; regola di sale e pepe.",
-        "Prepara la fonduta: fai sciogliere il burro, aggiungi la farina, versa il latte e mescola fino a una crema, poi fondi dentro il taleggio a pezzetti con la noce moscata.",
-        "Lessa gli spaghetti molto al dente, scolali e uniscili alla verza insieme al Grana Padano.",
-        "Ungi gli stampini, riempili con la pasta pressandola leggermente e cuoci in forno caldo a 200 °C per circa 10 minuti.",
-        "Sforma i timballi sui piatti e servili con la fonduta calda di taleggio."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "verza",
-        "pasta al forno"
-      ],
-      "stagione": [
         "novembre",
         "dicembre"
       ],
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Timballo-di-verza-con-fonduta-di-taleggio.html"
+        "url": "https://ricette.giallozafferano.it/Pasta-con-broccoli.html"
       }
     },
     {
-      "titolo": "Pollo alla cacciatora",
+      "titolo": "Gnocchi di patate",
+      "categoria": "Primi",
+      "porzioni": 4,
+      "tempoPrep": 20,
+      "tempoCottura": 40,
+      "difficolta": "Facile",
+      "costo": "Molto basso",
+      "ingredienti": [
+        {
+          "nome": "patate rosse",
+          "qta": 1,
+          "unita": "kg"
+        },
+        {
+          "nome": "farina 00",
+          "qta": 300,
+          "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "semola di grano duro rimacinata",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Lessa le patate con la buccia in acqua fredda per circa 40 minuti, finché sono tenere al centro.",
+        "Sbucciale ancora calde e schiacciale con lo schiacciapatate su un piano di lavoro, lasciandole intiepidire.",
+        "Aggiungi l'uovo, un pizzico di sale e la farina un po' alla volta, impastando velocemente fino a ottenere un composto liscio e morbido.",
+        "Dividi l'impasto in filoni spessi circa un dito e taglia dei tocchetti regolari.",
+        "Passa gli gnocchi sul rigagnocchi o con i rebbi di una forchetta e spolverali con la semola perché non si attacchino.",
+        "Cuoci in abbondante acqua salata e scolali appena vengono a galla; condiscili con il sugo che preferisci."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "comfort food"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Gnocchi-di-patate.html"
+      }
+    },
+    {
+      "titolo": "Cosce di pollo al forno",
       "categoria": "Secondi",
       "porzioni": 4,
       "tempoPrep": 20,
+      "tempoCottura": 45,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "fusi di pollo",
+          "qta": 870,
+          "unita": "g",
+          "nota": "8 fusi"
+        },
+        {
+          "nome": "patate",
+          "qta": 850,
+          "unita": "g"
+        },
+        {
+          "nome": "paprika piccante",
+          "qta": 2,
+          "unita": "cucchiaino"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 3,
+          "unita": "pz",
+          "nota": "rametti"
+        },
+        {
+          "nome": "timo",
+          "qta": 3,
+          "unita": "pz",
+          "nota": "rametti"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Accendi il forno statico a 200 °C e prepara una teglia capiente.",
+        "Sbuccia le patate, tagliale a tocchetti e condiscile con olio, sale, pepe e gli aghi di rosmarino e timo tritati.",
+        "Massaggia i fusi di pollo con olio, paprika, sale e pepe in modo che si insaporiscano bene.",
+        "Disponi patate e pollo nella teglia, ben distanziati, e aggiungi qualche rametto di erbe.",
+        "Inforna per circa 45 minuti, girando i fusi e le patate a metà cottura, finché la pelle è dorata e croccante.",
+        "Lascia riposare cinque minuti fuori dal forno e porta in tavola nella teglia."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "forno"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Cosce-di-pollo-al-forno.html"
+      }
+    },
+    {
+      "titolo": "Rollè alla birra con speck e funghi",
+      "categoria": "Secondi",
+      "porzioni": 4,
+      "tempoPrep": 30,
       "tempoCottura": 50,
       "difficolta": "Facile",
       "costo": "Medio",
       "ingredienti": [
         {
-          "nome": "pollo",
-          "qta": 1.2,
+          "nome": "fesa di vitello",
+          "qta": 1,
           "unita": "kg",
-          "nota": "a pezzi"
+          "nota": "in una sola fetta"
         },
         {
-          "nome": "pomodori pelati",
-          "qta": 400,
+          "nome": "speck",
+          "qta": 120,
           "unita": "g"
         },
         {
-          "nome": "cipolla dorata",
+          "nome": "Emmentaler a fette",
+          "qta": 120,
+          "unita": "g"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": 6,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "carote",
           "qta": 1,
           "unita": "pz"
         },
         {
-          "nome": "carota",
+          "nome": "cipolle",
           "qta": 1,
           "unita": "pz"
         },
@@ -424,112 +418,39 @@
           "nome": "sedano",
           "qta": 1,
           "unita": "pz",
-          "nota": "1 costa"
+          "nota": "una costa"
+        },
+        {
+          "nome": "salvia",
+          "qta": 4,
+          "unita": "foglia"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 3,
+          "unita": "pz",
+          "nota": "rametti"
+        },
+        {
+          "nome": "birra chiara",
+          "qta": 330,
+          "unita": "ml"
+        },
+        {
+          "nome": "funghi",
+          "qta": 250,
+          "unita": "g"
         },
         {
           "nome": "aglio",
           "qta": 1,
           "unita": "spicchio"
-        },
-        {
-          "nome": "vino rosso",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "rosmarino",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 rametto"
-        },
-        {
-          "nome": "prezzemolo tritato",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 ciuffo"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        }
-      ],
-      "passi": [
-        "Trita finemente cipolla, carota, sedano e aglio per ottenere un battuto.",
-        "Scalda l'olio in un tegame ampio e fai rosolare i pezzi di pollo da tutti i lati, poi mettili da parte.",
-        "Nello stesso tegame soffriggi il battuto con il rosmarino finché è morbido.",
-        "Rimetti il pollo, sfuma con il vino rosso e lascia evaporare l'alcol.",
-        "Unisci i pelati schiacciati, sala, pepa, copri e cuoci a fiamma bassa per circa 45 minuti, girando ogni tanto.",
-        "Se il sugo si restringe troppo aggiungi un mestolo di acqua calda; a fine cottura cospargi di prezzemolo."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "pollo",
-        "tegame"
-      ],
-      "stagione": [
-        "ottobre",
-        "novembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Pollo-alla-cacciatora.html"
-      }
-    },
-    {
-      "titolo": "Polpettone ripieno di spinaci e caciocavallo",
-      "categoria": "Secondi",
-      "porzioni": 6,
-      "tempoPrep": 70,
-      "tempoCottura": 50,
-      "difficolta": "Facile",
-      "costo": "Medio",
-      "ingredienti": [
-        {
-          "nome": "manzo macinato",
-          "qta": 650,
-          "unita": "g"
-        },
-        {
-          "nome": "maiale macinato",
-          "qta": 400,
-          "unita": "g"
-        },
-        {
-          "nome": "uova",
-          "qta": 6,
-          "unita": "pz",
-          "nota": "1 per l'impasto, 5 per la frittata"
-        },
-        {
-          "nome": "Grana Padano DOP",
-          "qta": 200,
-          "unita": "g",
-          "nota": "da grattugiare"
-        },
-        {
-          "nome": "pane",
-          "qta": 100,
-          "unita": "g",
-          "nota": "mollica"
         },
         {
           "nome": "prezzemolo",
           "qta": 1,
           "unita": "pz",
-          "nota": "1 mazzetto"
+          "nota": "un ciuffo, tritato"
         },
         {
           "nome": "sale fino",
@@ -540,338 +461,21 @@
           "nome": "pepe nero",
           "qta": null,
           "unita": "q.b."
-        },
-        {
-          "nome": "noce moscata",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "senape",
-          "qta": 10,
-          "unita": "g"
-        },
-        {
-          "nome": "caciocavallo",
-          "qta": 180,
-          "unita": "g"
-        },
-        {
-          "nome": "spinaci",
-          "qta": 500,
-          "unita": "g"
-        },
-        {
-          "nome": "aglio",
-          "qta": 1,
-          "unita": "spicchio"
-        },
-        {
-          "nome": "pangrattato",
-          "qta": 10,
-          "unita": "g"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "patate novelle",
-          "qta": 1,
-          "unita": "kg"
-        },
-        {
-          "nome": "rosmarino",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 rametto"
-        },
-        {
-          "nome": "salvia",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 rametto"
-        },
-        {
-          "nome": "alloro",
-          "qta": 1,
-          "unita": "foglia"
-        },
-        {
-          "nome": "timo",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 rametto"
         }
       ],
       "passi": [
-        "Cuoci gli spinaci con un filo d'olio e l'aglio, lasciali raffreddare e tritali grossolanamente.",
-        "Prepara una frittata sottile con le uova rimaste e tagliala a strisce o lasciala intera per formare uno strato nel polpettone.",
-        "Amalgama le carni con un uovo, la mollica ammollata e strizzata, il formaggio grattugiato, il prezzemolo, la senape, sale, pepe e noce moscata.",
-        "Stendi l'impasto su carta forno, distribuisci frittata, spinaci e caciocavallo a pezzetti, poi arrotola con cura aiutandoti con la carta.",
-        "Sigilla bene i lati, cospargi di pangrattato e sistema il rotolo in una teglia con le patate, le erbe aromatiche e un filo d'olio.",
-        "Cuoci in forno a 180 °C per circa 50 minuti, girando le patate a metà cottura; lascia intiepidire prima di affettare."
+        "Apri la fetta di vitello su un tagliere, salala e pepala, poi coprila con lo speck e l'Emmentaler.",
+        "Arrotola la carne su se stessa e legala con lo spago da cucina, aggiungendo salvia e rosmarino sotto i giri.",
+        "Rosola il rollè in una casseruola con 4 cucchiai di olio, girandolo finché è dorato su tutti i lati.",
+        "Aggiungi carota, cipolla e sedano a pezzetti, sfuma con la birra e cuoci a fuoco dolce con il coperchio per circa 50 minuti, bagnando se serve.",
+        "Nel frattempo pulisci i funghi, affettali e saltali in padella con 2 cucchiai di olio e l'aglio, sale, pepe e prezzemolo.",
+        "Taglia il rollè a fette, condiscilo con il fondo di cottura e servilo con i funghi."
       ],
       "note": "",
       "foto": null,
       "tag": [
-        "carne",
-        "forno"
-      ],
-      "stagione": [
-        "novembre",
-        "dicembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Polpettone-ripieno-di-spinaci-e-caciocavallo.html"
-      }
-    },
-    {
-      "titolo": "Panini all'olio",
-      "categoria": "Lievitati",
-      "porzioni": 6,
-      "tempoPrep": 60,
-      "tempoCottura": 30,
-      "difficolta": "Media",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "farina Manitoba",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "acqua",
-          "qta": 280,
-          "unita": "g",
-          "nota": "100 g per il lievitino, 180 g per l'impasto, a temperatura ambiente"
-        },
-        {
-          "nome": "lievito di birra fresco",
-          "qta": 10,
-          "unita": "g"
-        },
-        {
-          "nome": "farina 00",
-          "qta": 400,
-          "unita": "g"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": 100,
-          "unita": "g"
-        },
-        {
-          "nome": "malto",
-          "qta": 10,
-          "unita": "g"
-        },
-        {
-          "nome": "sale fino",
-          "qta": 10,
-          "unita": "g"
-        }
-      ],
-      "passi": [
-        "Prepara il lievitino: sciogli il lievito nell'acqua, aggiungi la farina Manitoba e mescola; lascia riposare finché si formano delle bolle.",
-        "Unisci la farina 00, l'acqua rimasta e il malto e inizia a impastare.",
-        "Incorpora l'olio a filo, poco alla volta, e solo alla fine il sale, lavorando fino a un impasto liscio e morbido.",
-        "Lascia lievitare l'impasto coperto fino al raddoppio del volume.",
-        "Dividi in sei porzioni, forma i panini e disponili su una teglia con carta forno; falli lievitare ancora per circa 30 minuti.",
-        "Cuoci in forno a 200 °C per circa 25-30 minuti, finché sono dorati."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "pane",
-        "lievitato"
-      ],
-      "stagione": [
-        "novembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Panini-all-olio.html"
-      }
-    },
-    {
-      "titolo": "Finocchi gratinati",
-      "categoria": "Contorni",
-      "porzioni": 4,
-      "tempoPrep": 5,
-      "tempoCottura": 20,
-      "difficolta": "Facile",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "finocchi",
-          "qta": 480,
-          "unita": "g"
-        },
-        {
-          "nome": "olio extravergine d'oliva",
-          "qta": 40,
-          "unita": "g"
-        },
-        {
-          "nome": "Parmigiano Reggiano DOP",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "sale fino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pepe nero",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pangrattato",
-          "qta": 80,
-          "unita": "g"
-        },
-        {
-          "nome": "timo",
-          "qta": 2,
-          "unita": "pz",
-          "nota": "2 rametti"
-        }
-      ],
-      "passi": [
-        "Elimina le parti dure e le barbe dei finocchi e tagliali a spicchi regolari.",
-        "Lessali in acqua salata per pochi minuti, poi scolali e asciugali.",
-        "Mescola il pangrattato con il parmigiano grattugiato, le foglioline di timo, sale e pepe.",
-        "Disponi i finocchi in una teglia, irrorali con olio e coprili con il mix di pangrattato.",
-        "Gratina in forno ventilato a 200 °C per circa 15 minuti, finché la superficie è dorata e croccante."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "finocchi",
-        "gratin"
-      ],
-      "stagione": [
-        "novembre",
-        "dicembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Finocchi-gratinati.html"
-      }
-    },
-    {
-      "titolo": "Budino cachi e cacao",
-      "categoria": "Dolci",
-      "porzioni": 4,
-      "tempoPrep": 10,
-      "tempoCottura": 0,
-      "difficolta": "Facile",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "cachi maturi",
-          "qta": 700,
-          "unita": "g"
-        },
-        {
-          "nome": "cacao amaro in polvere",
-          "qta": 40,
-          "unita": "g",
-          "nota": "più un po' per decorare"
-        },
-        {
-          "nome": "granella di mandorle caramellata",
-          "qta": null,
-          "unita": "q.b.",
-          "nota": "o frutta secca mista"
-        }
-      ],
-      "passi": [
-        "Scegli cachi molto maturi e morbidi, tagliali a metà e raccogli la polpa con un cucchiaio eliminando semi e parti dure.",
-        "Frulla la polpa fino a ottenere una crema omogenea.",
-        "Aggiungi il cacao setacciato e frulla ancora finché non ci sono grumi.",
-        "Distribuisci la crema in bicchierini o coppette.",
-        "Lascia riposare in frigorifero per un'ora, così il budino si compatta.",
-        "Servi spolverando con poco cacao e granella di mandorle caramellata."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "cachi",
-        "senza cottura"
-      ],
-      "stagione": [
-        "novembre",
-        "dicembre"
-      ],
-      "preferita": false,
-      "fonte": {
-        "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Budino-cachi-e-cacao.html"
-      }
-    },
-    {
-      "titolo": "Budino di castagne",
-      "categoria": "Dolci",
-      "porzioni": 6,
-      "tempoPrep": 60,
-      "tempoCottura": 90,
-      "difficolta": "Facile",
-      "costo": "Basso",
-      "ingredienti": [
-        {
-          "nome": "castagne",
-          "qta": 1,
-          "unita": "kg"
-        },
-        {
-          "nome": "latte intero",
-          "qta": 500,
-          "unita": "g"
-        },
-        {
-          "nome": "zucchero",
-          "qta": 50,
-          "unita": "g"
-        },
-        {
-          "nome": "panna fresca liquida",
-          "qta": 260,
-          "unita": "g"
-        },
-        {
-          "nome": "cioccolato fondente",
-          "qta": 180,
-          "unita": "g",
-          "nota": "150 g per il budino, 30 g per decorare"
-        },
-        {
-          "nome": "gelatina in fogli",
-          "qta": 8,
-          "unita": "g"
-        }
-      ],
-      "passi": [
-        "Incidi le castagne e lessale a lungo; sbucciale quando sono ancora tiepide.",
-        "Cuocile nel latte con lo zucchero finché sono tenere, poi frullale fino a ottenere una crema liscia.",
-        "Ammolla la gelatina in acqua fredda, strizzala e scioglila nella crema ancora calda.",
-        "Scalda metà della panna, versala sul cioccolato tritato e mescola per avere una ganache; unisci il resto della panna.",
-        "Incorpora la ganache alla crema di castagne e distribuisci negli stampini.",
-        "Fai rassodare in frigorifero per alcune ore, sforma e decora con scaglie di cioccolato."
-      ],
-      "note": "",
-      "foto": null,
-      "tag": [
-        "castagne",
-        "cucchiaio"
+        "autunno",
+        "carne"
       ],
       "stagione": [
         "ottobre",
@@ -880,108 +484,355 @@
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Budino-di-castagne.html"
+        "url": "https://ricette.giallozafferano.it/Rolle-alla-birra-con-speck-e-funghi.html"
       }
     },
     {
-      "titolo": "Crumb cake alle pere",
-      "categoria": "Dolci",
+      "titolo": "Zucca al forno",
+      "categoria": "Contorni",
+      "porzioni": 8,
+      "tempoPrep": 30,
+      "tempoCottura": 45,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "zucca mantovana",
+          "qta": 1.5,
+          "unita": "kg",
+          "nota": "da pulire"
+        },
+        {
+          "nome": "mandorle in scaglie",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "semi di zucca",
+          "qta": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": 140,
+          "unita": "g"
+        },
+        {
+          "nome": "rosmarino",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
+        },
+        {
+          "nome": "paprika affumicata",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "salvia",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "prezzemolo",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Scalda il forno a 200 °C in modalità statica.",
+        "Pulisci la zucca eliminando semi e filamenti e tagliala a spicchi non troppo sottili.",
+        "Frulla le erbe con l'olio per ottenere un'emulsione profumata e condisci gli spicchi con sale, pepe e paprika.",
+        "Disponi la zucca sulla placca rivestita di carta forno e cospargila con mandorle e semi di zucca.",
+        "Cuoci per circa 45 minuti, fino a quando la polpa è tenera e i bordi sono leggermente caramellati.",
+        "Servi calda con un filo dell'olio aromatico rimasto."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "zucca",
+        "vegetariano"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Zucca-al-forno.html"
+      }
+    },
+    {
+      "titolo": "Polpette di lenticchie",
+      "categoria": "Antipasti",
       "porzioni": 6,
+      "tempoPrep": 20,
+      "tempoCottura": 50,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "lenticchie secche",
+          "qta": 200,
+          "unita": "g"
+        },
+        {
+          "nome": "Grana Padano DOP",
+          "qta": 100,
+          "unita": "g",
+          "nota": "grattugiato"
+        },
+        {
+          "nome": "patate",
+          "qta": 120,
+          "unita": "g",
+          "nota": "una piccola"
+        },
+        {
+          "nome": "aglio",
+          "qta": 1,
+          "unita": "spicchio"
+        },
+        {
+          "nome": "uova",
+          "qta": 3,
+          "unita": "pz"
+        },
+        {
+          "nome": "pangrattato",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "olio di semi di arachide",
+          "qta": 1,
+          "unita": "l",
+          "nota": "per friggere"
+        },
+        {
+          "nome": "sale fino",
+          "qta": null,
+          "unita": "q.b."
+        },
+        {
+          "nome": "pepe nero",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Lessa le lenticchie in acqua non salata per circa 40 minuti, insieme alla patata sbucciata e allo spicchio d'aglio.",
+        "Scolale bene e frullale grossolanamente con la patata, eliminando l'aglio.",
+        "Trasferisci il composto in una ciotola, unisci il Grana, due uova, sale, pepe e un po' di pangrattato fino a un impasto lavorabile.",
+        "Forma delle palline con le mani leggermente umide e fai riposare in frigo una quindicina di minuti.",
+        "Sbatti l'uovo rimasto, passa le polpette prima nell'uovo e poi nel pangrattato.",
+        "Friggile in olio caldo finché sono dorate, falle asciugare su carta assorbente e servile tiepide. Dalla ricetta originale si ottengono circa 35 polpette."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "legumi"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Polpette-di-lenticchie.html"
+      }
+    },
+    {
+      "titolo": "Torta ricotta e mele",
+      "categoria": "Dolci",
+      "porzioni": 8,
       "tempoPrep": 20,
       "tempoCottura": 60,
       "difficolta": "Facile",
       "costo": "Basso",
       "ingredienti": [
         {
-          "nome": "farina 00",
-          "qta": 275,
+          "nome": "mele gialle",
+          "qta": 450,
           "unita": "g",
-          "nota": "200 g per l'impasto, 75 g per il crumble"
+          "nota": "circa 3"
         },
         {
-          "nome": "zucchero",
-          "qta": 170,
+          "nome": "farina 00",
+          "qta": 200,
           "unita": "g"
         },
         {
-          "nome": "burro",
-          "qta": 245,
-          "unita": "g",
-          "nota": "170 g ammorbidito, 75 g freddo"
+          "nome": "amido di mais",
+          "qta": 100,
+          "unita": "g"
         },
         {
           "nome": "uova",
           "qta": 3,
-          "unita": "pz"
+          "unita": "pz",
+          "nota": "medie"
         },
         {
-          "nome": "tuorli",
+          "nome": "zucchero",
+          "qta": 200,
+          "unita": "g"
+        },
+        {
+          "nome": "ricotta vaccina",
+          "qta": 250,
+          "unita": "g",
+          "nota": "ben scolata"
+        },
+        {
+          "nome": "olio di semi di girasole",
+          "qta": 100,
+          "unita": "ml"
+        },
+        {
+          "nome": "latte intero",
+          "qta": 100,
+          "unita": "ml"
+        },
+        {
+          "nome": "scorza di limone",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "grattugiata"
+        },
+        {
+          "nome": "succo di limone",
           "qta": 1,
           "unita": "pz"
         },
         {
           "nome": "lievito in polvere per dolci",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "1 bustina"
-        },
-        {
-          "nome": "vaniglia",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "semi di 1 baccello"
-        },
-        {
-          "nome": "sale fino",
-          "qta": 3,
-          "unita": "pizzico"
-        },
-        {
-          "nome": "pere",
-          "qta": 200,
+          "qta": 16,
           "unita": "g"
         },
         {
-          "nome": "frutti di bosco",
-          "qta": 170,
-          "unita": "g"
-        },
-        {
-          "nome": "succo di limone",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "di 1 limone"
-        },
-        {
-          "nome": "farina di mandorle",
-          "qta": 75,
-          "unita": "g"
-        },
-        {
-          "nome": "zucchero di canna",
-          "qta": 75,
-          "unita": "g"
-        },
-        {
-          "nome": "scorza di lime",
-          "qta": 1,
-          "unita": "pz",
-          "nota": "non trattato"
+          "nome": "miele millefiori",
+          "qta": 2,
+          "unita": "cucchiaio"
         }
       ],
       "passi": [
-        "Prepara il crumble: lavora con la punta delle dita farina, farina di mandorle, zucchero di canna, burro freddo, sale e scorza di lime fino a formare briciole; tienilo in frigo.",
-        "Sbuccia le pere, tagliale a cubetti e spruzzale con il limone.",
-        "Monta il burro ammorbidito con lo zucchero e i semi di vaniglia, poi aggiungi le uova e il tuorlo uno alla volta.",
-        "Incorpora farina, lievito e un pizzico di sale, quindi unisci pere e frutti di bosco.",
-        "Versa l'impasto in una tortiera imburrata e ricoprilo con il crumble.",
-        "Inforna a 180 °C per circa un'ora, verificando la cottura con uno stecchino; lascia raffreddare prima di servire."
+        "Scalda il forno a 180 °C e rivesti con carta forno uno stampo a cerniera.",
+        "Sbuccia le mele, tagliale a pezzetti e bagnale con il succo di limone perché non scuriscano.",
+        "Monta le uova con lo zucchero fino a ottenere una crema chiara, poi versa a filo olio e latte.",
+        "Incorpora la ricotta e la scorza di limone, quindi aggiungi farina, amido e lievito setacciati mescolando dal basso verso l'alto.",
+        "Unisci metà delle mele all'impasto, versalo nello stampo e distribuisci le mele rimaste in superficie.",
+        "Cuoci per circa un'ora, poi spennella la torta con il miele e lasciala raffreddare prima di sformarla."
       ],
       "note": "",
       "foto": null,
       "tag": [
-        "pere",
-        "torta"
+        "autunno",
+        "mele",
+        "dolce"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Torta-ricotta-e-mele.html"
+      }
+    },
+    {
+      "titolo": "Muffin alla zucca",
+      "categoria": "Dolci",
+      "porzioni": 4,
+      "tempoPrep": 25,
+      "tempoCottura": 25,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "polpa di zucca",
+          "qta": 225,
+          "unita": "g"
+        },
+        {
+          "nome": "burro",
+          "qta": 150,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero di canna",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "miele",
+          "qta": 90,
+          "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "sale",
+          "qta": 1,
+          "unita": "pizzico"
+        },
+        {
+          "nome": "bicarbonato",
+          "qta": 1,
+          "unita": "cucchiaino"
+        },
+        {
+          "nome": "noce moscata",
+          "qta": null,
+          "unita": "q.b.",
+          "nota": "da grattugiare"
+        },
+        {
+          "nome": "farina 00",
+          "qta": 200,
+          "unita": "g"
+        },
+        {
+          "nome": "cannella in polvere",
+          "qta": 0.5,
+          "unita": "cucchiaino"
+        }
+      ],
+      "passi": [
+        "Cuoci la polpa di zucca a cubetti al vapore o al forno finché è morbida e riducila in purea; lasciala raffreddare.",
+        "Scalda il forno a 180 °C e fodera lo stampo da muffin con i pirottini.",
+        "Lavora il burro morbido con zucchero di canna e miele fino a ottenere una crema spumosa, poi aggiungi l'uovo.",
+        "Incorpora la purea di zucca e mescola bene.",
+        "Unisci farina, bicarbonato, sale e spezie e mescola poco, solo finché non vedi più la farina.",
+        "Distribuisci l'impasto nei pirottini e cuoci per circa 25 minuti; fai la prova stecchino e lascia raffreddare."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "zucca",
+        "dolce"
       ],
       "stagione": [
         "ottobre",
@@ -990,90 +841,183 @@
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Crumb-cake-alle-pere.html"
+        "url": "https://ricette.giallozafferano.it/Muffin-alla-zucca.html"
       }
     },
     {
-      "titolo": "Focaccia barese",
+      "titolo": "Focaccine di patate",
       "categoria": "Lievitati",
-      "porzioni": 6,
-      "tempoPrep": 40,
-      "tempoCottura": 20,
-      "difficolta": "Media",
-      "costo": "Basso",
+      "porzioni": 10,
+      "tempoPrep": 30,
+      "tempoCottura": 50,
+      "difficolta": "Facile",
+      "costo": "Molto basso",
       "ingredienti": [
         {
-          "nome": "farina 00 di grano tenero",
-          "qta": 500,
+          "nome": "farina 0",
+          "qta": 150,
           "unita": "g"
         },
         {
-          "nome": "lievito di birra fresco",
-          "qta": 25,
+          "nome": "semola",
+          "qta": 150,
+          "unita": "g"
+        },
+        {
+          "nome": "patate",
+          "qta": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "acqua tiepida",
+          "qta": 200,
+          "unita": "ml"
+        },
+        {
+          "nome": "olio extravergine d'oliva",
+          "qta": 20,
+          "unita": "ml"
+        },
+        {
+          "nome": "lievito di birra secco",
+          "qta": 5,
           "unita": "g"
         },
         {
           "nome": "sale fino",
-          "qta": 15,
-          "unita": "g"
+          "qta": 0.5,
+          "unita": "cucchiaino"
         },
         {
-          "nome": "zucchero",
-          "qta": 10,
-          "unita": "g"
-        },
-        {
-          "nome": "acqua",
-          "qta": 300,
-          "unita": "ml"
-        },
-        {
-          "nome": "pomodori perini",
-          "qta": 500,
-          "unita": "g"
-        },
-        {
-          "nome": "olive baresane",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "pomodorini ciliegino",
-          "qta": null,
-          "unita": "q.b."
-        },
-        {
-          "nome": "origano",
-          "qta": null,
-          "unita": "q.b."
+          "nome": "rosmarino",
+          "qta": 1,
+          "unita": "pz",
+          "nota": "rametto"
         },
         {
           "nome": "olio extravergine d'oliva",
+          "qta": null,
+          "unita": "q.b.",
+          "nota": "per condire"
+        },
+        {
+          "nome": "sale grosso",
           "qta": null,
           "unita": "q.b."
         }
       ],
       "passi": [
-        "Sciogli il lievito e lo zucchero nell'acqua, poi impasta con la farina e aggiungi il sale verso la fine, lavorando fino a un impasto elastico.",
-        "Lascia lievitare in luogo tiepido per circa un'ora, finché raddoppia di volume.",
-        "Ungi generosamente una teglia con olio, stendi l'impasto con le mani e lascialo riposare ancora per 30 minuti.",
-        "Schiaccia i pomodori perini a pezzi e distribuiscili sulla superficie insieme ai ciliegini e alle olive snocciolate.",
-        "Condisci con origano, sale e un giro d'olio, premendo con le dita per far affondare il condimento.",
-        "Cuoci in forno a 220 °C per circa 20 minuti, finché il fondo è dorato e croccante."
+        "Lessa la patata, sbucciala e schiacciala fino a ottenere una purea fine; lasciala raffreddare.",
+        "Mescola farina, semola e lievito, poi aggiungi la purea, l'acqua tiepida e l'olio.",
+        "Impasta, unisci il sale e lavora finché l'impasto è liscio e morbido.",
+        "Copri e lascia lievitare in un luogo tiepido per circa 2 ore, fino al raddoppio.",
+        "Dividi l'impasto in palline, stendile a dischi e adagiale su una teglia unta; lascia riposare ancora 30 minuti.",
+        "Condisci con olio, sale grosso e rosmarino e cuoci a 220 °C per circa 20 minuti, finché sono dorate."
       ],
       "note": "",
       "foto": null,
       "tag": [
-        "focaccia",
-        "lievitato"
+        "autunno",
+        "patate"
       ],
       "stagione": [
-        "novembre"
+        "ottobre",
+        "novembre",
+        "dicembre"
       ],
       "preferita": false,
       "fonte": {
         "nome": "GialloZafferano",
-        "url": "https://ricette.giallozafferano.it/Focaccia-barese.html"
+        "url": "https://ricette.giallozafferano.it/Focaccine-di-patate.html"
+      }
+    },
+    {
+      "titolo": "Ciambella ricotta e pere",
+      "categoria": "Dolci",
+      "porzioni": 6,
+      "tempoPrep": 20,
+      "tempoCottura": 45,
+      "difficolta": "Facile",
+      "costo": "Basso",
+      "ingredienti": [
+        {
+          "nome": "farina 00",
+          "qta": 250,
+          "unita": "g"
+        },
+        {
+          "nome": "ricotta vaccina",
+          "qta": 250,
+          "unita": "g"
+        },
+        {
+          "nome": "zucchero",
+          "qta": 120,
+          "unita": "g"
+        },
+        {
+          "nome": "uova",
+          "qta": 4,
+          "unita": "pz",
+          "nota": "medie"
+        },
+        {
+          "nome": "pere",
+          "qta": 3,
+          "unita": "pz"
+        },
+        {
+          "nome": "olio di semi di girasole",
+          "qta": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "lievito in polvere per dolci",
+          "qta": 16,
+          "unita": "g"
+        },
+        {
+          "nome": "burro",
+          "qta": null,
+          "unita": "q.b.",
+          "nota": "per lo stampo"
+        },
+        {
+          "nome": "farina 00",
+          "qta": null,
+          "unita": "q.b.",
+          "nota": "per lo stampo"
+        },
+        {
+          "nome": "zucchero a velo",
+          "qta": null,
+          "unita": "q.b."
+        }
+      ],
+      "passi": [
+        "Scalda il forno a 180 °C, imburra e infarina uno stampo da ciambella.",
+        "Sbuccia le pere, elimina il torsolo e tagliale a dadini.",
+        "Monta le uova con lo zucchero finché il composto è chiaro e voluminoso, poi aggiungi ricotta e olio.",
+        "Incorpora farina e lievito setacciati con movimenti delicati dal basso verso l'alto.",
+        "Unisci i dadini di pera, versa nello stampo e livella la superficie.",
+        "Cuoci per circa 45 minuti (prova stecchino), lascia intiepidire, sforma e spolvera di zucchero a velo."
+      ],
+      "note": "",
+      "foto": null,
+      "tag": [
+        "autunno",
+        "pere",
+        "dolce"
+      ],
+      "stagione": [
+        "ottobre",
+        "novembre",
+        "dicembre"
+      ],
+      "preferita": false,
+      "fonte": {
+        "nome": "GialloZafferano",
+        "url": "https://ricette.giallozafferano.it/Ciambella-ricotta-e-pere.html"
       }
     }
   ]
